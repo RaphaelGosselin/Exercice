@@ -77,7 +77,7 @@ Il y a des h2 devant le h1 de la page et des paragraphes sont identifiés comme 
 - Ajouter un calque de blanc à 50% de transparence
 - Dans un 3e calque, par-dessus, identifiez les titres et leurs niveaux (h1-h6) de manière voyante (couleur rouge et font-size suffisant)
 - Sauvegarder au format .png dans le même dossier.
-- [Relier ce fichier-réponse ici]()
+- [Relier ce fichier-réponse ici](images/2-table-des-matieres_h1-h6/2-2/concevoir-un-design-sans-la-couleur.png)
 
 ### 3. Baliser un tableau de données pour qu’il soit accessible
 

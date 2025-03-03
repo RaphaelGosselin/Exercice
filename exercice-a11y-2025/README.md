@@ -60,9 +60,7 @@ __Tutoriel sur les formulaires du w3c__
 
 Réponse : 
 
-----
-----
-----
+La mise en page est correctement faite
 
 __L’affaire Savtchenko__ 
 [Article](images/2-table-des-matieres_h1-h6/2-1/article-savtchenko.pdf)  
@@ -70,9 +68,7 @@ __L’affaire Savtchenko__
   
 Réponse : 
 
-----
-----
-----
+Il y a des h2 devant le h1 de la page et des paragraphes sont identifiés comme h2
 
 
 #### 2.2 S'exercer à bien structurer
